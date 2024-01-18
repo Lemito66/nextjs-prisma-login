@@ -38,15 +38,18 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 - Instalar prisma 
 
- ``` npm i prisma -D
+ ```
+ npm i prisma -D
  ```
 
 - Creación por defecto de la base de datos con postgresql
 
-``` npx prisma init 
+``` 
+npx prisma init 
 ```
 
 - Migración de la base de datos
-``` npx prisma migrate dev --name init
+``` 
+npx prisma migrate dev --name init
  ```
 
