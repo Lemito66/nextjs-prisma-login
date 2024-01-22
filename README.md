@@ -53,3 +53,8 @@ npx prisma init
 npx prisma migrate dev --name init
  ```
 
+- Next-auth
+``` 
+npx i next-auth
+```
+
